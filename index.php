@@ -31,9 +31,9 @@
                 <div class="modulo vermelho">
                     <h3>Tipos</h3>
                     <ul>
-                        <li><a href="exercicio.php?dir=tipos&file=int">Exercício A</a></li>
-                        <li><a href="#">Exercício B</a></li>
-                        <li><a href="#">Exercício C</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=int">Tipo Int</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=float">Tipo Float</li>
+                        <li><a href="exercicio.php?dir=tipos&file=aritimeticas">Op. Aritiméticas</a></li>
                     </ul>       
                 </div>
                 <div class="modulo azul">
