@@ -25,7 +25,7 @@
                         <li><a href="exercicio.php?dir=basico&file=html">Integração HTML</a></li>
                         <li><a href="exercicio.php?dir=basico&file=css">Integração CSS</a></li>
                         <li><a href="exercicio.php?dir=basico&file=comentarios">Comentários PHP</a></li>
-                        <li><a href="exercicio.php?dir=basico&file=desafio">Desafio</a></li>
+                        <li><a href="exercicio.php?dir=basico&file=desafio">Desafio Básico</a></li>
                     </ul>
                 </div>
                 <div class="modulo vermelho">
@@ -34,7 +34,12 @@
                         <li><a href="exercicio.php?dir=tipos&file=int">Tipo Int</a></li>
                         <li><a href="exercicio.php?dir=tipos&file=float">Tipo Float</li>
                         <li><a href="exercicio.php?dir=tipos&file=aritimeticas">Op. Aritiméticas</a></li>
-                    </ul>       
+                        <li><a href="exercicio.php?dir=tipos&file=desafio_precedencia">Desafio Precedência</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=string">Tipo String</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=desafio_string">Desafio String</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=boolean">Tipo Boolean</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=conversoes">Conversões de Tipos</a></li>
+                    </ul>
                 </div>
                 <div class="modulo azul">
                     <h3>Módulo 03 - Básico</h3>
