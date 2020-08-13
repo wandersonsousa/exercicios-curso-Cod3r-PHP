@@ -20,4 +20,3 @@ $DESAFIO = $$ESSE; // esse
 
 
 echo "$NOSSA! {$EU} $CONSEGUI $RESPONDER $ESSE $DESAFIO.";
-
