@@ -49,6 +49,8 @@
                         <li><a href="exercicio.php?dir=variaveis&file=atribuicoes">Atribuições</a></li>
                         <li><a href="exercicio.php?dir=variaveis&file=interpolacao">Interpolação</a></li>
                         <li><a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">Variáveis Variáveis</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=desafio_varvar">Desafio Variáveis Variáveis</a></li>
+                        
                     </ul>       
                 </div>
                 <div class="modulo roxo">
