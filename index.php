@@ -71,8 +71,8 @@
                 <div class="modulo verde-escuro">
                     <h3>Módulo 06 - Orientação A Objetos</h3>
                     <ul>
-                        <li><a href="#">Exercício A</a></li>
                         <li><a href="exercicio.php?dir=classes_objetos&file=visibilidade">Visibilidade</a></li>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=static">Membros Estáticos</a></li>
                         <li><a href="#">Exercício C</a></li>
                     </ul>       
                 </div>
