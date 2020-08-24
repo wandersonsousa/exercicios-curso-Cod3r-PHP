@@ -52,31 +52,27 @@
                         <li><a href="exercicio.php?dir=variaveis&file=desafio_varvar">Desafio Variáveis Variáveis</a></li>
                         <li><a href="exercicio.php?dir=variaveis&file=valor_referencia">Valor vs Referência</a></li>
                         <li><a href="exercicio.php?dir=variaveis&file=constantes">Constantes</a></li>
-                        
-                        
-                    </ul>       
+                    </ul>
                 </div>
                 <div class="modulo roxo">
-                    <h3>Módulo 04 - Básico</h3>
+                    <h3>Módulo 04 - Estruturas de Controle</h3>
                     <ul>
-                        <li><a href="#">Exercício A</a></li>
-                        <li><a href="#">Exercício B</a></li>
-                        <li><a href="#">Exercício C</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=desafio_pi">Desafio PI</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=desafio_operadores">Desafio Operadores Lógicos</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=desafio_switch">Desafio Switch</a></li>
                     </ul>       
                 </div>
                 <div class="modulo laranja">
-                    <h3>Módulo 05 - Básico</h3>
+                    <h3>Módulo 05 - Estrutura de Controle II</h3>
                     <ul>
-                        <li><a href="#">Exercício A</a></li>
-                        <li><a href="#">Exercício B</a></li>
-                        <li><a href="#">Exercício C</a></li>
+                    <li><a href="exercicio.php?dir=controle2&file=for">FOR</a></li>
                     </ul>       
                 </div>
                 <div class="modulo verde-escuro">
-                    <h3>Módulo 06 - Básico</h3>
+                    <h3>Módulo 06 - Orientação A Objetos</h3>
                     <ul>
                         <li><a href="#">Exercício A</a></li>
-                        <li><a href="#">Exercício B</a></li>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=visibilidade">Visibilidade</a></li>
                         <li><a href="#">Exercício C</a></li>
                     </ul>       
                 </div>

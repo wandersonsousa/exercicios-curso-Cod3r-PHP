@@ -22,3 +22,4 @@ $result = $undefinedValue ?? $someValue;
 
 
 var_dump($result);
+
