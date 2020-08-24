@@ -73,7 +73,7 @@
                     <ul>
                         <li><a href="exercicio.php?dir=classes_objetos&file=visibilidade">Visibilidade</a></li>
                         <li><a href="exercicio.php?dir=classes_objetos&file=static">Membros Estáticos</a></li>
-                        <li><a href="#">Exercício C</a></li>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=desafio_erros">Desafio Erros</a></li>
                     </ul>       
                 </div>
 
