@@ -81,9 +81,9 @@
                 </div>
 
                 <div class="modulo vermelho-escuro">
-                    <h3>Módulo 07 - Básico</h3>
+                    <h3>Módulo 07 - Includes</h3>
                     <ul>
-                        <li><a href="#">Exercício A</a></li>
+                        <li><a href="exercicio.php?dir=includes&file=include">Include</a></li>
                         <li><a href="#">Exercício B</a></li>
                         <li><a href="#">Exercício C</a></li>
                     </ul>       
