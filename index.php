@@ -76,6 +76,7 @@
                         <li><a href="exercicio.php?dir=classes_objetos&file=desafio_erros">Desafio Erros</a></li>
                         <li><a href="exercicio.php?dir=classes_objetos&file=final">Final</a></li>
                         <li><a href="exercicio.php?dir=classes_objetos&file=traits_01">Traits 01</a></li>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=polimorfismo">Polimorfismo</a></li>
                     </ul>       
                 </div>
 
