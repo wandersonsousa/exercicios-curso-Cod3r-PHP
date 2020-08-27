@@ -23,7 +23,7 @@
         </ul>
     </div>
     <div class="modulo azul">
-        <h3>Módulo 03 - Variáveis</h3>
+        <h3>Variáveis</h3>
         <ul>
             <li><a href="exercicio.php?dir=variaveis&file=basico">Básico</a></li>
             <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao">Desafio Equação</a></li>
@@ -36,7 +36,7 @@
         </ul>
     </div>
     <div class="modulo roxo">
-        <h3>Módulo 04 - Estruturas de Controle</h3>
+        <h3>Estruturas de Controle</h3>
         <ul>
             <li><a href="exercicio.php?dir=controle&file=desafio_pi">Desafio PI</a></li>
             <li><a href="exercicio.php?dir=controle&file=desafio_operadores">Desafio Operadores Lógicos</a></li>
@@ -44,13 +44,13 @@
         </ul>       
     </div>
     <div class="modulo laranja">
-        <h3>Módulo 05 - Estrutura de Controle II</h3>
+        <h3>Estrutura de Controle II</h3>
         <ul>
         <li><a href="exercicio.php?dir=controle2&file=for">FOR</a></li>
         </ul>       
     </div>
     <div class="modulo verde-escuro">
-        <h3>Módulo 06 - Orientação A Objetos</h3>
+        <h3>Orientação A Objetos</h3>
         <ul>
             <li><a href="exercicio.php?dir=classes_objetos&file=visibilidade">Visibilidade</a></li>
             <li><a href="exercicio.php?dir=classes_objetos&file=static">Membros Estáticos</a></li>
@@ -62,27 +62,26 @@
     </div>
 
     <div class="modulo vermelho-escuro">
-        <h3>Módulo 07 - Includes</h3>
+        <h3>Includes</h3>
         <ul>
             <li><a href="exercicio.php?dir=includes&file=include">Include</a></li>
             <li><a href="exercicio.php?dir=includes&file=desafio_namespaces">Desafio Namespace e Include</a></li>
         </ul>       
     </div>
     <div class="modulo azul-escuro">
-        <h3>Módulo 08 - Namespaces</h3>
+        <h3>Namespaces</h3>
         <ul>
             <li><a href="exercicio.php?dir=namespace&file=basico">Básico</a></li>
             <li><a href="exercicio.php?dir=namespace&file=subnamespaces">Sub-Namespaces</a></li>
-            <li><a href="#">Exercício B</a></li>
-            <li><a href="#">Exercício C</a></li>
         </ul>       
     </div>
     <div class="modulo roxo-escuro">
-        <h3>Módulo 09 - Básico</h3>
+        <h3>Tratamento de Erros</h3>
         <ul>
-            <li><a href="#">Exercício A</a></li>
-            <li><a href="#">Exercício B</a></li>
-            <li><a href="#">Exercício C</a></li>
+            <li><a href="exercicio.php?dir=tratamento_erro&file=try_catch">Try_Catch</a></li>
+            <li><a href="exercicio.php?dir=tratamento_erro&file=erros_personalizados">Erros Personalizados</a></li>
+            <li><a href="exercicio.php?dir=tratamento_erro&file=desafio_intdiv">Desafio Intdiv</a></li>
+            <li><a href="exercicio.php?dir=tratamento_erro&file=gerenciador_error">Error Handler</a></li>
         </ul>       
     </div>           
 </div>
