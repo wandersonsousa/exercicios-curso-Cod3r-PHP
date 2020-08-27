@@ -83,5 +83,14 @@
             <li><a href="exercicio.php?dir=tratamento_erro&file=desafio_intdiv">Desafio Intdiv</a></li>
             <li><a href="exercicio.php?dir=tratamento_erro&file=gerenciador_error">Error Handler</a></li>
         </ul>       
-    </div>           
+    </div>    
+
+    <div class="modulo laranja-escuro">
+        <h3>Sessão</h3>
+        <ul>
+            <li><a href="exercicio.php?dir=sessao&file=basico">Básico</a></li>
+            <li><a href="exercicio.php?dir=sessao&file=gerenciando_sessao">Gerenciando Sessão</a></li>
+            
+        </ul>       
+    </div>         
 </div>
