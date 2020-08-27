@@ -65,12 +65,14 @@
         <h3>Módulo 07 - Includes</h3>
         <ul>
             <li><a href="exercicio.php?dir=includes&file=include">Include</a></li>
+            <li><a href="exercicio.php?dir=includes&file=desafio_namespaces">Desafio Namespace e Include</a></li>
         </ul>       
     </div>
     <div class="modulo azul-escuro">
         <h3>Módulo 08 - Namespaces</h3>
         <ul>
             <li><a href="exercicio.php?dir=namespace&file=basico">Básico</a></li>
+            <li><a href="exercicio.php?dir=namespace&file=subnamespaces">Sub-Namespaces</a></li>
             <li><a href="#">Exercício B</a></li>
             <li><a href="#">Exercício C</a></li>
         </ul>       
