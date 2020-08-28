@@ -1,7 +1,9 @@
 <?php
 session_start();
+if( isset($_SESSION['usuario']) )header('Location: index.php');
 
 $usuarios = [];
+
 if( isset( $_POST['email'] ) && isset( $_POST['senha'] ) ){
     $email = $_POST['email'];
     $senha = $_POST['senha'];
@@ -17,20 +19,25 @@ if( isset( $_POST['email'] ) && isset( $_POST['senha'] ) ){
             "senha" => "alura"
         ]
     ];
-}
 
-foreach ($usuarios as $usuario) {
-    if( $usuario['email'] === $email && $usuario['senha'] === $senha ){
-        $_SESSION['erros'] = null;
-        $_SESSION['usuario'] = $usuario['nome'];
-        header('Location: index.php');
+    foreach ($usuarios as $usuario) {
+        if( $usuario['email'] === $email && $usuario['senha'] === $senha ){
+            $_SESSION['erros'] = null;
+            $_SESSION['usuario'] = $usuario['nome'];
+
+            $exp = time() + ( 60 * 60 * 24 );
+            setcookie('usuario', $usuario['nome'], $exp );
+            header('Location: index.php');
+        }
+    }
+    
+    
+    if( !isset($_SESSION['usuario']) ){
+        $_SESSION['erros'] = ['Usuário ou Senha inválidos'];
     }
 }
 
 
-if( !isset($_SESSION['usuario']) ){
-    $_SESSION['erros'] = ['Usuário ou Senha inválidos'];
-}
 
 ?>
 <!DOCTYPE html>
@@ -48,7 +55,7 @@ if( !isset($_SESSION['usuario']) ){
 <body class="login">
 
     <header class="cabecalho">
-        <h1>Curso PHP</h1>
+        <h1> Curso PHP </h1>
         <h2>Seja Bem Vindo</h2>
     </header>
 
