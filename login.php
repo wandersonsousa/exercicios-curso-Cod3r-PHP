@@ -17,6 +17,11 @@ if( isset( $_POST['email'] ) && isset( $_POST['senha'] ) ){
             "nome" => "Aluno Alura",
             "email" => "alunoalura@yamdex.com",
             "senha" => "alura"
+        ],
+        [
+            "nome" => "Wanderson",
+            "email" => "wanderson@gmail.com",
+            "senha" => "123"
         ]
     ];
 

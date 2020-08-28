@@ -90,7 +90,16 @@
         <ul>
             <li><a href="exercicio.php?dir=sessao&file=basico">Básico</a></li>
             <li><a href="exercicio.php?dir=sessao&file=gerenciando_sessao">Gerenciando Sessão</a></li>
-            
+        </ul>       
+    </div>  
+
+    <div class="modulo cinza">
+        <h3>Arquivos</h3>
+        <ul>
+            <li><a href="exercicio.php?dir=arquivos&file=escrever_arquivo">Escrever Arquivo</a></li>
+            <li><a href="exercicio.php?dir=arquivos&file=leitura_arquivo">Leitura Arquivo</a></li>
+            <li><a href="exercicio.php?dir=arquivos&file=upload">Upload</a></li>
+            <li><a href="exercicio.php?dir=arquivos&file=download">Download</a></li>
         </ul>       
     </div>         
 </div>
