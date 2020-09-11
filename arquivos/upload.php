@@ -5,7 +5,7 @@
 print_r( $_FILES );
 
 if( isset($_FILES) && isset($_FILES['arquivo']) ){
-    $pastaUpload = '/home/wanderson/Documentos/';
+    $pastaUpload = '/home/php_projects/curso-php/arquivos/vendor/';
     $nomeArquivo = $_FILES['arquivo']['name'];
     $arquivoPath = $pastaUpload . $nomeArquivo;
     $tmp = $_FILES['arquivo']['tmp_name'];
